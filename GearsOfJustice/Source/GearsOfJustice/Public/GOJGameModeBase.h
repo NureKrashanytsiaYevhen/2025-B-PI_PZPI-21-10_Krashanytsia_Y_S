@@ -13,5 +13,7 @@ UCLASS()
 class GEARSOFJUSTICE_API AGOJGameModeBase : public AGameModeBase
 {
 	GENERATED_BODY()
+
+	AGOJGameModeBase();
 	
 };
